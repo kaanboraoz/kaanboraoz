@@ -1,7 +1,7 @@
 ### Hello I'm Bora 👋
 
 #### My Toolbox
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,rust,c,vim,git,aws,bootstrap,bash,cs,bots,discord,dotnet,figma,devto,idea,instagram,linkedin,md,linux,powershell,stackoverflow,twitter,visualstudio,vscode,webpack,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,rust,c,vim,git,aws,bootstrap,bash,cs,bots,discord,dotnet,figma,devto,idea,instagram,linkedin,md,linux,powershell,stackoverflow,twitter,visualstudio,vscode,webpack,nginx,windows)](https://skillicons.dev)
 
 #### 🤖 My Technology and Helper Tools
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
@@ -41,8 +41,5 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
