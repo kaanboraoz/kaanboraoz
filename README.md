@@ -1,6 +1,6 @@
 ### Hello I'm Bora 👋
 
-#### My Languages
+#### My Toolbox
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,rust,c,vim,git)](https://skillicons.dev)
 
 #### 🤖 My Technology and Helper Tools
