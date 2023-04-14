@@ -6,3 +6,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=50&color=04F702&multiline=true&width=550&height=70&lines=Hello+how+are+you+%3F;How+would+you+like+to+develop+a+hobby+project+with+me%3F;You+can+contact+me+here+%22info%40bora.wiki%22)](https://git.io/typing-svg)
 
 ![Bora's GitHub stats](https://github-readme-stats.vercel.app/api?username=boravip1&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boravip1&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
