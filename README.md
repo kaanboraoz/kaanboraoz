@@ -1,7 +1,7 @@
 ### Hello I'm Bora 👋
 
 #### My Toolbox
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,rust,c,vim,git,aws,bootstrap,blazor)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,rust,c,vim,git,aws,bootstrap,bash,cs,bots,discord,dotnet,figma)](https://skillicons.dev)
 
 #### 🤖 My Technology and Helper Tools
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
