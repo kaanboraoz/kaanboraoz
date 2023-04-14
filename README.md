@@ -1,5 +1,7 @@
 ### Hello I'm Bora 👋
 
+#### My Languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm, c#, c, rust, blazor, .net)](https://skillicons.dev)
 
 #### 🤖 My Technology and Helper Tools
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
