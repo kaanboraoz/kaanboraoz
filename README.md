@@ -1,13 +1,11 @@
 ### Hello I'm Bora 👋
 
 #### My Toolbox
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,rust,c,vim,git,aws,bootstrap,bash,cs,bots,discord,dotnet,figma,devto,idea,instagram,linkedin,md,linux,powershell,stackoverflow,twitter,visualstudio,vscode,webpack,nginx,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,rust,c,vim,git,aws,bootstrap,bash,cs,bots,discord,dotnet,figma,devto,idea,instagram,linkedin,md,linux,powershell,stackoverflow,twitter,visualstudio,vscode,webpack,nginx)](https://skillicons.dev)
 
 #### 🤖 My Technology and Helper Tools
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
