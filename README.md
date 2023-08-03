@@ -7,4 +7,3 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq?si=d29aa24bcc934e7b)
 ![Bora's GitHub stats](https://github-readme-stats.vercel.app/api?username=boravip1&show_icons=true&theme=codeSTACKr)
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
