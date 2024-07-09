@@ -1,5 +1,8 @@
 ### Hello I'm Kaan 👋
 
+[![App Platorm](https://github.com/benkaan2/benkaan2/blob/main/2.png)](https://github.com/benkaan2/benkaan2/)
+
+
 #### Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nextjs,ts)](https://skillicons.dev)
 
