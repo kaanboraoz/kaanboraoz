@@ -1,4 +1,4 @@
-### Hello I'm Kaan 👋
+### Hello I'm Kaan Bora Öz 👋
 
 [![App Platorm](https://github.com/benkaan2/benkaan2/blob/main/2.png)](https://github.com/benkaan2/benkaan2/)
 
