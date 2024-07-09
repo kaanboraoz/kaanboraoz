@@ -1,5 +1,6 @@
 ### Hello I'm Kaan Bora Öz 👋
 ![](https://komarev.com/ghpvc/?username=kaanboraoz)
+![https://www.instagram.com/boraatech/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 [![App Platorm](https://github.com/benkaan2/benkaan2/blob/main/2.png)](https://github.com/benkaan2/benkaan2/)
 
