@@ -13,4 +13,4 @@
 [![My Skills](https://skillicons.dev/icons?i=rust,tauri,linux,bash)](https://skillicons.dev)
 
 ### Dev Tools
-[![My Skills](https://skillicons.dev/icons?i=git,aws,stackoverflow,nginx,vercel,gcp,azure,netlify,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,aws,stackoverflow,nginx,vercel,gcp,azure,netlify,redis,notion,npm)](https://skillicons.dev)
