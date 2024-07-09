@@ -16,4 +16,4 @@
 [![My Skills](https://skillicons.dev/icons?i=git,aws,stackoverflow,nginx,vercel,gcp,azure,netlify,redis,notion,npm)](https://skillicons.dev)
 
 ### My Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Kaan Bora Öz GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
