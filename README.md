@@ -1,7 +1,7 @@
 ### Hello I'm Kaan Bora Öz 👋
+![](https://komarev.com/ghpvc/?username=kaanboraoz)
 
 [![App Platorm](https://github.com/benkaan2/benkaan2/blob/main/2.png)](https://github.com/benkaan2/benkaan2/)
-
 
 #### Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nextjs,ts)](https://skillicons.dev)
@@ -17,4 +17,3 @@
 
 ### My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![](https://komarev.com/ghpvc/?username=kaanboraoz)
