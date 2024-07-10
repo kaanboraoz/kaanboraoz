@@ -1,6 +1,7 @@
 ### Hello I'm Kaan Bora Öz 👋
-![https://www.instagram.com/boraatech/](Instagram)
-![https://www.linkedin.com/in/kaan-bora-%C3%B6z-018831278/](Linkedin)
+[Instagram](https://www.instagram.com/boraatech/)
+[LinkedIn](https://www.linkedin.com/in/kaan-bora-%C3%B6z-018831278/)
+
 
 ![](https://komarev.com/ghpvc/?username=kaanboraoz)
 
