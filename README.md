@@ -7,7 +7,7 @@
 
 [![App Platorm](https://github.com/benkaan2/benkaan2/blob/main/2.png)](https://github.com/benkaan2/benkaan2/)
 
-#### Frontend
+#### Frontend (I am a Beginner)
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs)](https://skillicons.dev)
 
 #### Backend
