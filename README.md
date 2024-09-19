@@ -8,11 +8,11 @@
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres)](https://skillicons.dev)
 
-#### Frontend (I am a Beginner)
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs)](https://skillicons.dev)
-
 #### CLI & Database Tools
 [![My Skills](https://skillicons.dev/icons?i=rust,postgres,linux)](https://skillicons.dev)
+
+#### Frontend (I am a Beginner)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs)](https://skillicons.dev)
 
 ### Dev Tools
 [![My Skills](https://skillicons.dev/icons?i=git,aws,stackoverflow)](https://skillicons.dev)
