@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/boraatech/)
 
 #### Backend
-[![My Skills](https://skillicons.dev/icons?i=fastify,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,postgres)](https://skillicons.dev)
 
 #### CLI & Database Tools
 [![My Skills](https://skillicons.dev/icons?i=rust,postgres,linux)](https://skillicons.dev)
