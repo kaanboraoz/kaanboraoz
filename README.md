@@ -7,8 +7,8 @@
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=js,postgres)](https://skillicons.dev)
 
-#### CLI & Database Tools
-[![My Skills](https://skillicons.dev/icons?i=rust,postgres,linux)](https://skillicons.dev)
+#### CLI & Tools
+[![My Skills](https://skillicons.dev/icons?i=rust,linux)](https://skillicons.dev)
 
 #### Frontend (I am a Beginner)
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,vue,nuxtjs)](https://skillicons.dev)
