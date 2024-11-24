@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=rust,linux)](https://skillicons.dev)
 
 #### Frontend (I am a Beginner)
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,vue,nuxtjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs)](https://skillicons.dev)
 
 ### Dev Tools
 [![My Skills](https://skillicons.dev/icons?i=git,aws,stackoverflow)](https://skillicons.dev)
