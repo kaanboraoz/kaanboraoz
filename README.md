@@ -1,9 +1,6 @@
 ### Hello I'm Kaan Bora Öz 👋
 ![](https://komarev.com/ghpvc/?username=kaanboraoz)
 
-#### Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/boraatech/)
-
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=dotnet,postgres)](https://skillicons.dev)
 
