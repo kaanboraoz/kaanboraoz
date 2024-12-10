@@ -1,4 +1,4 @@
-### Hello I'm Kaan Bora Öz 👋
+### Hello I'm Kaan 👋
 ![](https://komarev.com/ghpvc/?username=kaanboraoz)
 
 #### Tech Stack
