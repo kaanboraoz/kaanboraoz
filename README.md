@@ -5,4 +5,4 @@
 [![My Skills](https://skillicons.dev/icons?i=typescript,rust,postgres,linux,react,tailwind,nextjs)](https://skillicons.dev)
 
 ### Connect With Me
-![okkaan](https://dcbadge.limes.pink/api/shield/okkaan)
+<a href='https://discord.com/users/1096738034726219877' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/kaan-100000?style=for-the-badge&logo=Discord&logoColor=000000&labelColor=FFFFFF&color=22A6FE'/></a>
