@@ -10,9 +10,9 @@ I'm a software developer mostly found in a terminal somewhere. I live on Linux, 
 ---
 
 ### 🎯 Interests  
-🗣️ Language learning & Philology
-📚 Reading (tech, psych, and everything in between)  
-🎨 Design & visual details  
-🧠 Psychology & how people think  
+- 🗣️ Language learning & Philology
+- 📚 Reading (tech, psych, and everything in between)  
+- 🎨 Design & visual details  
+- 🧠 Psychology & how people think  
 
 ---
