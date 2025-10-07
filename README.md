@@ -1,6 +1,6 @@
 
 ### 👋 Hey, I'm Kaan
-![Main Image](https://github.com/kaanboraoz/kaanboraoz/blob/main/2.png) 
+![Main Image](https://github.com/kaanboraoz/kaanboraoz/blob/main/cover-image.png) 
 
 I'm Kaan, a software developer who lives on Linux and enjoys writing code in Rust. The terminal is my natural habitat.
 
