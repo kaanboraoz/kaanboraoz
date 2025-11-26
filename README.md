@@ -1,8 +1,26 @@
+### 👋 Hi, I'm Kaan
 
-### 👋 Hey, I'm Kaan
-![Main Image](https://github.com/kaanboraoz/kaanboraoz/blob/main/cover-image.png) 
+I'm a software developer who enjoys working on Linux and spending most of my time in the terminal. Rust and compiler internals are my main interests — I love exploring interpreters and low-level concepts in my free time.
 
-I'm Kaan, a software developer who lives on Linux and enjoys writing code in Rust. The terminal is my natural habitat.
+### 🔥 What I Enjoy
 
-### 🛠️ Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,rust,laravel,php&perline=6)](https://skillicons.dev)
+- 🦀 **Rust** — My primary language, especially for exploring compiler-related ideas.
+- 🐘 **PHP & Laravel** — My daily tech stack for building production applications.
+
+### 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=rust,php,laravel&perline=6)](https://skillicons.dev)
+
+### 💭 Currently
+
+- Learning and experimenting with compiler design  
+- Building web applications with Laravel  
+- Exploring Rust through small compiler and interpreter projects  
+
+### 📫 Contact
+
+You can try to reach me — though I'm usually somewhere inside a terminal 😄
+
+---
+
+*"The best code is no code at all, but when you must write it, make it elegant."*
