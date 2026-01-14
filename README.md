@@ -1,4 +1,4 @@
-![Kaan Bio](kaan-bio.png)
+![Kaan Bio](kaan-bio (1).png)
 
 ### Hi, I'm Kaan
 
