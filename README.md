@@ -1,3 +1,5 @@
+![Kaan Bio](kaan-bio.png)
+
 ### Hi, I'm Kaan
 
 I'm a software developer who enjoys working on Linux and spending most of my time in the terminal. Rust and compiler internals are my main interests. I love exploring interpreters and low-level concepts in my free time.
