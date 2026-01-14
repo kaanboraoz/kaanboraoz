@@ -10,13 +10,3 @@ I'm a software developer who enjoys working on Linux and spending most of my tim
 ### Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=rust,php,laravel,htmx,tailwindcss,alpinejs&perline=6)](https://skillicons.dev)
-
-### Currently
-
-- Learning and experimenting with compiler design  
-- Building web applications with Laravel  
-- Exploring Rust through small compiler and interpreter projects
-
----
-
-*"The best code is no code at all, but when you must write it, make it elegant."*
