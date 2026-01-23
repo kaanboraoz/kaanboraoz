@@ -4,9 +4,9 @@ I'm a software developer who enjoys working on Linux and spending most of my tim
 
 ### What I Enjoy
 
-- 🐹 **Go**  My primary language, especially for exploring compiler-related ideas.
-- 🐘 **PHP & Laravel**  My daily tech stack for building production applications.
+- 🦀  **Rust**  My primary language, especially for exploring compiler-related ideas.
+- 🐘  **PHP & Laravel**  My daily tech stack for building production applications.
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=go,php,laravel,htmx,tailwindcss,alpinejs&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,php,laravel,htmx,tailwindcss,alpinejs&perline=6)](https://skillicons.dev)
