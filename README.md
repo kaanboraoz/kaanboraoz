@@ -4,8 +4,8 @@ I'm a software developer who enjoys working on Linux and spending most of my tim
 
 ### What I Enjoy
 
-- 🦀 Rust – Hobbyist, fairly new to the language.
-- - 🐘  **PHP & Laravel**  My daily tech stack for building production applications.
+- 🦀 **Rust**  Hobbyist, fairly new to the language.
+- 🐘 **PHP & Laravel**  My daily tech stack for building production applications.
 
 ### Tech Stack
 
