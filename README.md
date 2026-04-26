@@ -1,7 +1,6 @@
 ### Hi, I'm Kaan
 
-I'm a software developer who enjoys working on Linux and spending most of my time in the terminal. Rust and compiler internals are my main interests. I love exploring interpreters and low-level concepts in my free time.
-
+Just an ordinary person who codes for fun. Recently got back into programming after a long break. Learning Rust and building small CLI tools.
 ### What I Enjoy
 
 - 🦀 **Rust**  Hobbyist, fairly new to the language.
