@@ -9,4 +9,4 @@ I'm a software developer who enjoys working on Linux and spending most of my tim
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=rust,php,laravel,svelte,tailwindcss,directus&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,php,laravel,svelte,tailwindcss&perline=6)](https://skillicons.dev)
