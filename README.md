@@ -1,6 +1,6 @@
 ### Hi, I'm Kaan
 
-Just an ordinary person who codes for fun. Recently got back into programming after a long break. Learning Rust and building small CLI tools.
+Just an ordinary person who codes for fun.
 ### What I Enjoy
 
 - 🦀 **Rust**  Hobbyist, fairly new to the language.
